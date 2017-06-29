@@ -1,2 +1,2 @@
 <?php
-$var = 'test  123';
+$var = 'test  1';
